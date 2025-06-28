@@ -136,5 +136,6 @@ This section summarizes key insights uncovered using the Power BI visualizations
 
 ![Screenshot 2025-06-28 192230](https://github.com/user-attachments/assets/0e328b44-4043-455f-a0da-7df6c9db822d)
 
-![Screenshot 2025-06-28 192243](https://github.com/user-attachments/assets/b028c865-19f9-4b7e-a2b2-689c41ccc603)
+
+![CUSTOMER](https://github.com/user-attachments/assets/a027d3f3-0a92-44c2-952d-f9bce97b192c)
 
